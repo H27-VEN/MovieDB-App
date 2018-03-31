@@ -1,0 +1,23 @@
+
+
+.App{
+  margin-top: 10%;
+}
+
+.btn-prop {
+  background-color: transparent;
+  border-color: #01d277;
+  color: #01d277;
+  border-radius: 30%;
+}
+
+li .btn-prop:hover {
+  background-color: #01d277;
+  color: #081c24;
+}
+
+.selected {
+  background-color: #01d277 !important;
+  color: #081c24 !important;
+}
+
